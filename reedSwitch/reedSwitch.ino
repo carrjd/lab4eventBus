@@ -35,9 +35,9 @@ int StatoSwitch = 0;
 #include <PubSubClient.h>
 
 
-const char* ssid = "WobblyHouse";
-const char* password = "5w0rd5gun5&danc1ng";
-const char* mqtt_server = "192.168.1.240";
+const char* ssid = "";
+const char* password = "";
+const char* mqtt_server = "";
 
 
 WiFiClient espClient;
